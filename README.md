@@ -1,6 +1,7 @@
 # Virtual-Assistant-RAN
 We have created a Virtual Assistant called RAN which can do basic task along with perform maths operations, get location, get latest news(india), weather information, etc..
 
+## Features
 It can do the following things:
 1. Tell current Date and Time
 2. Tell the current Location

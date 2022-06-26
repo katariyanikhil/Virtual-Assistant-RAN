@@ -34,7 +34,7 @@ It can do the following things:
 ## Project Structure:
 VA                  - Contains the features and init file
    features         - Has all the code for various features of the VA
-   _init_.py        - For providing packages
+      _init_.py        - For providing packages
 main.py             - Main program file
 readme.txt          - readme file
 requirements.txt    - requirements file

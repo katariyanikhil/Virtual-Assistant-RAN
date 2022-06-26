@@ -14,13 +14,13 @@ It can do the following things:
 10. Search anything on wikipedia
 11. Can tell a Joke
 
-#API:
+## API:
 1. To perform the maths operations, we used the Wolframalpha API
 2. To get weather information we used OpenWeather API
 3. To get news we are using The times of India call
 4. For Location we are using Google Map API call
 
-#How to run?
+## How to run?
 1. Install pip
 >sudo apt install python3-pip
 
@@ -30,7 +30,7 @@ It can do the following things:
 3. Run the Main python file
 >python3 main.py
 
-#Project Structure:
+## Project Structure:
 VA                  - Contains the features and init file
    features         - Has all the code for various features of the VA
    _init_.py        - For providing packages
